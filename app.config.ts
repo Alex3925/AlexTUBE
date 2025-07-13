@@ -5,8 +5,8 @@ import { version, versionCode } from './package.json'
 
 module.exports = ({ config }: { config: ExpoConfig }) => {
   return {
-    name: 'NouTube',
-    slug: 'noutube',
+    name: 'AlexTube',
+    slug: 'alextube',
     version,
     icon: './assets/images/icon.png',
     scheme: 'noutube',
