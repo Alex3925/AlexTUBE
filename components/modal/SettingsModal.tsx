@@ -9,7 +9,7 @@ import { clsx } from '@/lib/utils'
 import { use$ } from '@legendapp/state/react'
 import { settings$ } from '@/states/settings'
 
-const repo = 'https://github.com/nonbili/NouTube'
+const repo = 'https://github.com/Alex3925/AlexTUBE/'
 const tabs = ['Settings', 'About']
 
 export const SettingsModal: React.FC<{ onClose: () => void }> = ({ onClose }) => {
